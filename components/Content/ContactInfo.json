@@ -1,7 +1,7 @@
 {
   "No": "(512) 555-1234",
   "tel": "5125551234",
-  "mail": "info@papawspottys.com",
+  "mail": "",
   "baseUrl": "https://papawspottys.com/",
   "host": "papawspottys.com",
   "name": "Texas Portable Toilet Services",
@@ -11,7 +11,7 @@
   "zipCode": "75034",
   "bannerImage": "https://ik.imagekit.io/z6skgnupx/papawspottys_com/Porta_Potty_Rental_ContactInfo_bannerImage_03qyCMgiD.jpg",
   "logoImage": "https://ik.imagekit.io/h7rza8886p/Texas%20Portable%20Toilet%20Services.png?updatedAt=1750054700977",
-  "googleAnalytics": "",
+  "googleAnalytics": "G-TK09WHGFE6",
   "favicon": "https://ik.imagekit.io/h7rza8886p/favicon.ico",
   "minor": "#5f8bfa",
   "main": "#c227fe"
